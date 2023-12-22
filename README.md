@@ -1,6 +1,6 @@
 # 🥑 oreg0na
 
-- 🌱 Пишу на языках <b>JavaScript, Python, HTML, CSS, JQuery</b>
+- 🌱 Пишу на языках <b>JavaScript, Python3.12, HTML5, CSS, JQuery, C++</b>
 - 💞️ Двигаюсь в направлении <b>FrontEnd, BotDev, ПО Dev (программирование на уровне консоли)</b>
 - 👀 Призер <b>Технокубка от VK 2022</b>
   
