@@ -7,7 +7,7 @@
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,bots,html,css,scss,nodejs,vuejs,github,vscode,figma,bootstrap,mongodb,stackoverflow)](https://vk.com/official_hexvel)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,bots,html,css,scss,nodejs,vuejs,github,vscode,figma,bootstrap,mongodb,stackoverflow&perline=4)](https://vk.com/oreg0na)
 
 
 ### 📊 Stats
