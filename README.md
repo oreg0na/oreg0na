@@ -15,10 +15,11 @@
 
 <br />
 
-#
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,bots,html,css,scss,nodejs,vuejs,github,vscode,figma,bootstrap,mongodb,stackoverflow)](https://vk.com/official_hexvel)
+
 
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreg0na&show_icons=true&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oreg0na&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oreg0na&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oreg0na&theme=algolia)
