@@ -5,7 +5,7 @@
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,bots,html,css,scss,github,vscode,figma,bootstrap,asp,mongodb,stackoverflow&perline=4)](https://vk.com/oreg0na)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,bots,html,css,scss,github,vscode,figma,bootstrap,c#,mongodb,stackoverflow&perline=4)](https://vk.com/oreg0na)
 
 
 ### 📊 Stats
