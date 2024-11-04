@@ -5,7 +5,7 @@
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,postgres,stackoverflow&perline=4)](https://vk.com/oreg0na)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,js,py,postgres,stackoverflow&perline=4)](https://vk.com/oreg0na)
 
 
 ### 📊 Stats
